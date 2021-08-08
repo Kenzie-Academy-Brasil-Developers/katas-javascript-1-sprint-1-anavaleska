@@ -98,7 +98,7 @@ multiplesOfFiveBackwards();
 
 function squareNumbersBackwards() {
     
-   for(let i = 100; i >= ; i--){
+   for(let i = 100; i >= 1; i--){
      if (Math.sqrt(i) % 1 === 0){
        console.log(i);
      }
